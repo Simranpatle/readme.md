@@ -8,8 +8,23 @@
   </div>
 
     
-                                       💻 𝑊ℎ𝑒𝑛 𝐼'𝑚 𝑛𝑜𝑡 𝑖𝑚𝑚𝑒𝑟𝑠𝑒𝑑 𝑖𝑛 𝑐𝑜𝑑𝑒, 𝑌𝑜𝑢 𝑐𝑎𝑛 𝑓𝑖𝑛𝑑 𝑚𝑒 𝑒𝑥𝑝𝑙𝑜𝑟𝑖𝑛𝑔 𝑛𝑎𝑡𝑢𝑟𝑒.  
+                                       💻 𝑊ℎ𝑒𝑛 𝐼'𝑚 𝑛𝑜𝑡 𝑖𝑚𝑚𝑒𝑟𝑠𝑒𝑑 𝑖𝑛 𝑐𝑜𝑑𝑒, 𝑌𝑜𝑢 𝑐𝑎𝑛 𝑓𝑖𝑛𝑑 𝑚𝑒 𝑒𝑥𝑝𝑙𝑜𝑟𝑖𝑛𝑔 𝑛𝑎𝑡𝑢𝑟𝑒. 
+                                       
 
+```java
+package com.Simranpatle.About_me;
+
+public class Student{
+public static void main(String[] args){
+
+     final String Name="Simran Patle";
+     int Age=20; //Current Age
+     final String Degree="Computer Science and engineering"; //pursuing
+     String[] Learning={"Java","SpringBoot","DSA"};
+     
+     }
+  }
+  ```
 
 ### <div align="center">ʏᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴠɪᴀ ꜰᴏʟʟᴏᴡɪɴɢ ꜱᴏᴄɪᴀʟ ʜᴀɴᴅʟᴇꜱ ⤵ </div><br />
   <div align="center">
