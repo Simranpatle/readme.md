@@ -19,7 +19,7 @@ public static void main(String[] args){
 
      final String Name="Simran Patle";
      int Age=20; //Current Age
-     final String Degree="Computer Science and engineering"; //pursuing
+     final String Degree="Mechanical engineering"; //pursuing
      String[] Learning={"Java","SpringBoot","DSA"};
      
      }
