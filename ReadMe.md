@@ -29,6 +29,20 @@ ____
 </div>
 </br>
 
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=simranpatle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=simranpatle&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+</br>
 <br/>
 
 
